@@ -1,1 +1,1 @@
-This directory contains bash and c scripts and no js
+This directory contains bash and c directories and no js
